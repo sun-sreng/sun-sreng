@@ -17,8 +17,7 @@ alias gp='git push'
 alias gpd='git push --dry-run'
 alias gpoat='git push origin --all && git push origin --tags'
 alias gm='git branch --merged | grep -v \* | xargs'
-alias gdm1='git branch --merged | grep -v \* | xargs git branch -D'
-alias gdm="$HOME/my/delete_merged_branches.zsh"
+alias gdm='git branch --format="%(refname:short)" --merged | grep -v "$(git branch --show-current)" | xargs -n 1 git branch -d'
 
 ## Kubernetes
 alias watch='watch '
