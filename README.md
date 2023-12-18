@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:sun_sreng@hotmail.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sun_sreng?color=d83a7c&logoColor=d83a7c&style=flat-square&logo=Twitter)](https://twitter.com/sun_sreng)
 
-- 📞 I'm a software engineering focused on Web, Mobile Development - almost 10 (happy?) years working with it 😬
+- 📞 I'm a software engineering focused on Web, Mobile Development - almost 10 🥳 years working with it 😄
 - 💬 But you can ask me about: `Clean Architecture`, `Flutter`, `Nextjs`, `React`, `Sveltekit`, `.NET Core`, `NodeJs`...
 - 🌱 Learning more about and studying: Backend development in general and CS Algorithms
 - 👨‍💻 I’m currently working full-time remotely at [GMANA.CO](https://gmana.co) as a Flutter Developer
