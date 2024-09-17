@@ -1,0 +1,10 @@
+export PATH=$HOME/development/flutter/bin:$PATH
+export GEM_HOME=$HOME/.gem
+export PATH=$GEM_HOME/bin:$PATH
+export PATH="/opt/homebrew/opt/ruby/bin:$PATH"
+export LDFLAGS="-L/opt/homebrew/opt/ruby/lib"
+export CPPFLAGS="-I/opt/homebrew/opt/ruby/include"
+export PATH="$PATH":"$HOME/.pub-cache/bin"
+export PATH="$PATH:/Users/rocky/.dotnet/tools"
+export DENO_INSTALL="/Users/rocky/.deno"
+export PATH="$DENO_INSTALL/bin:$PATH"
